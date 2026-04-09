@@ -1,4 +1,4 @@
-# Prot2Chat-Tropical 🧬
+# Prot2Chat-Tropical 
 
 **A Domain-Specific Multimodal Q&A System for Endemic Pathogens in Bangladesh**
 
