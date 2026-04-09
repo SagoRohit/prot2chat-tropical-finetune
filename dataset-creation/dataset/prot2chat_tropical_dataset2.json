@@ -1,0 +1,1202 @@
+[
+    {
+        "instruction": "Analyze the structural implication of mutation H52Q.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The H52Q mutation occurs in Domain I. It represents a non-conservative substitution (positively charged \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation H52Q.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation H52Q is located in Domain I. The chemical shift (positively charged \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation H52Q.",
+        "input": "PDB Structure: 8FE3",
+        "output": "H52Q introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution H52Q?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The H52Q mutation occurs in Domain I. It represents a non-conservative substitution (positively charged \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution H52Q?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation H52Q is located in Domain I. The chemical shift (positively charged \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution H52Q?",
+        "input": "PDB Structure: 8FE3",
+        "output": "H52Q introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation H52Q on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The H52Q mutation occurs in Domain I. It represents a non-conservative substitution (positively charged \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation H52Q on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation H52Q is located in Domain I. The chemical shift (positively charged \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation H52Q on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "H52Q introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how H52Q may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The H52Q mutation occurs in Domain I. It represents a non-conservative substitution (positively charged \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how H52Q may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation H52Q is located in Domain I. The chemical shift (positively charged \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how H52Q may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "H52Q introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of H52Q.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The H52Q mutation occurs in Domain I. It represents a non-conservative substitution (positively charged \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of H52Q.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation H52Q is located in Domain I. The chemical shift (positively charged \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of H52Q.",
+        "input": "PDB Structure: 8FE3",
+        "output": "H52Q introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation A71E.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The A71E mutation occurs in Domain I. It represents a non-conservative substitution (hydrophobic \u2192 negatively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation A71E.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation A71E is located in Domain I. The chemical shift (hydrophobic \u2192 negatively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation A71E.",
+        "input": "PDB Structure: 8FE3",
+        "output": "A71E introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution A71E?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The A71E mutation occurs in Domain I. It represents a non-conservative substitution (hydrophobic \u2192 negatively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution A71E?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation A71E is located in Domain I. The chemical shift (hydrophobic \u2192 negatively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution A71E?",
+        "input": "PDB Structure: 8FE3",
+        "output": "A71E introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation A71E on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The A71E mutation occurs in Domain I. It represents a non-conservative substitution (hydrophobic \u2192 negatively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation A71E on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation A71E is located in Domain I. The chemical shift (hydrophobic \u2192 negatively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation A71E on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "A71E introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how A71E may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The A71E mutation occurs in Domain I. It represents a non-conservative substitution (hydrophobic \u2192 negatively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how A71E may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation A71E is located in Domain I. The chemical shift (hydrophobic \u2192 negatively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how A71E may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "A71E introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of A71E.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The A71E mutation occurs in Domain I. It represents a non-conservative substitution (hydrophobic \u2192 negatively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of A71E.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation A71E is located in Domain I. The chemical shift (hydrophobic \u2192 negatively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of A71E.",
+        "input": "PDB Structure: 8FE3",
+        "output": "A71E introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation T120R.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The T120R mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation T120R.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation T120R is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation T120R.",
+        "input": "PDB Structure: 8FE3",
+        "output": "T120R introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution T120R?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The T120R mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution T120R?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation T120R is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution T120R?",
+        "input": "PDB Structure: 8FE3",
+        "output": "T120R introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation T120R on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The T120R mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation T120R on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation T120R is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation T120R on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "T120R introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how T120R may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The T120R mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how T120R may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation T120R is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how T120R may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "T120R introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of T120R.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The T120R mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of T120R.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation T120R is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of T120R.",
+        "input": "PDB Structure: 8FE3",
+        "output": "T120R introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation I129V.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I129V mutation occurs in Domain I. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation I129V.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I129V is located in Domain I. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation I129V.",
+        "input": "PDB Structure: 8FE3",
+        "output": "I129V introduces a conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution I129V?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I129V mutation occurs in Domain I. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution I129V?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I129V is located in Domain I. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution I129V?",
+        "input": "PDB Structure: 8FE3",
+        "output": "I129V introduces a conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation I129V on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I129V mutation occurs in Domain I. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation I129V on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I129V is located in Domain I. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation I129V on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "I129V introduces a conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how I129V may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I129V mutation occurs in Domain I. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how I129V may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I129V is located in Domain I. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how I129V may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "I129V introduces a conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of I129V.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I129V mutation occurs in Domain I. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of I129V.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I129V is located in Domain I. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of I129V.",
+        "input": "PDB Structure: 8FE3",
+        "output": "I129V introduces a conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation N149H.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The N149H mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation N149H.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation N149H is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation N149H.",
+        "input": "PDB Structure: 8FE3",
+        "output": "N149H introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution N149H?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The N149H mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution N149H?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation N149H is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution N149H?",
+        "input": "PDB Structure: 8FE3",
+        "output": "N149H introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation N149H on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The N149H mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation N149H on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation N149H is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation N149H on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "N149H introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how N149H may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The N149H mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how N149H may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation N149H is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how N149H may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "N149H introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of N149H.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The N149H mutation occurs in Domain I. It represents a non-conservative substitution (polar \u2192 positively charged). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of N149H.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation N149H is located in Domain I. The chemical shift (polar \u2192 positively charged) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of N149H.",
+        "input": "PDB Structure: 8FE3",
+        "output": "N149H introduces a non-conservative alteration within Domain I, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation I226T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I226T mutation occurs in Domain II. It represents a non-conservative substitution (hydrophobic \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation I226T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I226T is located in Domain II. The chemical shift (hydrophobic \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation I226T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "I226T introduces a non-conservative alteration within Domain II, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution I226T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I226T mutation occurs in Domain II. It represents a non-conservative substitution (hydrophobic \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution I226T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I226T is located in Domain II. The chemical shift (hydrophobic \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution I226T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "I226T introduces a non-conservative alteration within Domain II, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation I226T on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I226T mutation occurs in Domain II. It represents a non-conservative substitution (hydrophobic \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation I226T on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I226T is located in Domain II. The chemical shift (hydrophobic \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation I226T on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "I226T introduces a non-conservative alteration within Domain II, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how I226T may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I226T mutation occurs in Domain II. It represents a non-conservative substitution (hydrophobic \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how I226T may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I226T is located in Domain II. The chemical shift (hydrophobic \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how I226T may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "I226T introduces a non-conservative alteration within Domain II, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of I226T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The I226T mutation occurs in Domain II. It represents a non-conservative substitution (hydrophobic \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of I226T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation I226T is located in Domain II. The chemical shift (hydrophobic \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of I226T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "I226T introduces a non-conservative alteration within Domain II, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation S390N.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S390N mutation occurs in Domain III. It represents a conservative substitution (polar \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation S390N.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S390N is located in Domain III. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation S390N.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S390N introduces a conservative alteration within Domain III, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution S390N?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S390N mutation occurs in Domain III. It represents a conservative substitution (polar \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution S390N?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S390N is located in Domain III. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution S390N?",
+        "input": "PDB Structure: 8FE3",
+        "output": "S390N introduces a conservative alteration within Domain III, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation S390N on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S390N mutation occurs in Domain III. It represents a conservative substitution (polar \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation S390N on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S390N is located in Domain III. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation S390N on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S390N introduces a conservative alteration within Domain III, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how S390N may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S390N mutation occurs in Domain III. It represents a conservative substitution (polar \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how S390N may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S390N is located in Domain III. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how S390N may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S390N introduces a conservative alteration within Domain III, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of S390N.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S390N mutation occurs in Domain III. It represents a conservative substitution (polar \u2192 polar). Since this residue is structurally resolved in 8FE3, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of S390N.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S390N is located in Domain III. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of S390N.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S390N introduces a conservative alteration within Domain III, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution V462I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution V462I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution V462I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation V462I on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation V462I on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation V462I on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how V462I may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how V462I may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how V462I may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T mutation occurs in Stem / Transmembrane. It represents a conservative substitution (polar \u2192 polar). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T is located in Stem / Transmembrane. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution S478T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T mutation occurs in Stem / Transmembrane. It represents a conservative substitution (polar \u2192 polar). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution S478T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T is located in Stem / Transmembrane. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution S478T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation S478T on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T mutation occurs in Stem / Transmembrane. It represents a conservative substitution (polar \u2192 polar). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation S478T on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T is located in Stem / Transmembrane. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation S478T on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how S478T may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T mutation occurs in Stem / Transmembrane. It represents a conservative substitution (polar \u2192 polar). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how S478T may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T is located in Stem / Transmembrane. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how S478T may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T mutation occurs in Stem / Transmembrane. It represents a conservative substitution (polar \u2192 polar). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T is located in Stem / Transmembrane. The chemical shift (polar \u2192 polar) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Analyze the structural implication of mutation V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution V484I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution V484I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "What structural effects might arise from substitution V484I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Describe the impact of mutation V484I on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Describe the impact of mutation V484I on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Describe the impact of mutation V484I on the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Explain how V484I may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Explain how V484I may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Explain how V484I may alter structural interactions.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I mutation occurs in Stem / Transmembrane. It represents a conservative substitution (hydrophobic \u2192 hydrophobic). Since this residue is not resolved in the 8FE3 structure, it may influence local structural stability."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I is located in Stem / Transmembrane. The chemical shift (hydrophobic \u2192 hydrophobic) suggests possible changes in residue interactions."
+    },
+    {
+        "instruction": "Discuss the residue-level consequences of V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I introduces a conservative alteration within Stem / Transmembrane, potentially affecting local conformation."
+    },
+    {
+        "instruction": "Compare the structural differences in the Envelope protein between the 2019 and 2023 Bangladesh strains.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Comparison of the Envelope protein sequences reveals substitutions including H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. Most mutations are localized in Domain I, with additional substitutions in Domains II and III. Several changes are resolved in the 8FE3 structure."
+    },
+    {
+        "instruction": "Compare the structural differences in the Envelope protein between the 2019 and 2023 Bangladesh strains.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "The two strains differ by the following mutations: H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. These substitutions are primarily clustered within the ectodomain, while some occur in unresolved transmembrane regions."
+    },
+    {
+        "instruction": "Compare the structural differences in the Envelope protein between the 2019 and 2023 Bangladesh strains.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Sequence comparison identifies multiple amino-acid substitutions (H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I) that map largely to structurally resolved regions of the Envelope protein."
+    },
+    {
+        "instruction": "What residue-level variations distinguish the 2019 and 2023 DENV-2 E proteins?",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Comparison of the Envelope protein sequences reveals substitutions including H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. Most mutations are localized in Domain I, with additional substitutions in Domains II and III. Several changes are resolved in the 8FE3 structure."
+    },
+    {
+        "instruction": "What residue-level variations distinguish the 2019 and 2023 DENV-2 E proteins?",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "The two strains differ by the following mutations: H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. These substitutions are primarily clustered within the ectodomain, while some occur in unresolved transmembrane regions."
+    },
+    {
+        "instruction": "What residue-level variations distinguish the 2019 and 2023 DENV-2 E proteins?",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Sequence comparison identifies multiple amino-acid substitutions (H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I) that map largely to structurally resolved regions of the Envelope protein."
+    },
+    {
+        "instruction": "How do the Envelope proteins differ structurally between the two Bangladesh isolates?",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Comparison of the Envelope protein sequences reveals substitutions including H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. Most mutations are localized in Domain I, with additional substitutions in Domains II and III. Several changes are resolved in the 8FE3 structure."
+    },
+    {
+        "instruction": "How do the Envelope proteins differ structurally between the two Bangladesh isolates?",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "The two strains differ by the following mutations: H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. These substitutions are primarily clustered within the ectodomain, while some occur in unresolved transmembrane regions."
+    },
+    {
+        "instruction": "How do the Envelope proteins differ structurally between the two Bangladesh isolates?",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Sequence comparison identifies multiple amino-acid substitutions (H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I) that map largely to structurally resolved regions of the Envelope protein."
+    },
+    {
+        "instruction": "Describe the mutation pattern observed between the 2019 and 2023 strains.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Comparison of the Envelope protein sequences reveals substitutions including H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. Most mutations are localized in Domain I, with additional substitutions in Domains II and III. Several changes are resolved in the 8FE3 structure."
+    },
+    {
+        "instruction": "Describe the mutation pattern observed between the 2019 and 2023 strains.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "The two strains differ by the following mutations: H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. These substitutions are primarily clustered within the ectodomain, while some occur in unresolved transmembrane regions."
+    },
+    {
+        "instruction": "Describe the mutation pattern observed between the 2019 and 2023 strains.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Sequence comparison identifies multiple amino-acid substitutions (H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I) that map largely to structurally resolved regions of the Envelope protein."
+    },
+    {
+        "instruction": "Summarize the structural changes identified in the comparative strain analysis.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Comparison of the Envelope protein sequences reveals substitutions including H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. Most mutations are localized in Domain I, with additional substitutions in Domains II and III. Several changes are resolved in the 8FE3 structure."
+    },
+    {
+        "instruction": "Summarize the structural changes identified in the comparative strain analysis.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "The two strains differ by the following mutations: H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I. These substitutions are primarily clustered within the ectodomain, while some occur in unresolved transmembrane regions."
+    },
+    {
+        "instruction": "Summarize the structural changes identified in the comparative strain analysis.",
+        "input": "PDB Structure: 8FE3. Comparative strain analysis.",
+        "output": "Sequence comparison identifies multiple amino-acid substitutions (H52Q, A71E, T120R, I129V, N149H, I226T, S390N, V462I, S478T, V484I) that map largely to structurally resolved regions of the Envelope protein."
+    },
+    {
+        "instruction": "Explain the domain-level distribution of mutations in the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation analysis shows the following domain distribution: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. Domain I contains the highest concentration of substitutions."
+    },
+    {
+        "instruction": "Explain the domain-level distribution of mutations in the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Substitutions are distributed as follows: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. This suggests localized variation within specific structural regions."
+    },
+    {
+        "instruction": "Explain the domain-level distribution of mutations in the Envelope protein.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Domain-level mapping indicates: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane, highlighting non-uniform mutation clustering."
+    },
+    {
+        "instruction": "How are mutations distributed across Domains I, II, and III?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation analysis shows the following domain distribution: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. Domain I contains the highest concentration of substitutions."
+    },
+    {
+        "instruction": "How are mutations distributed across Domains I, II, and III?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Substitutions are distributed as follows: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. This suggests localized variation within specific structural regions."
+    },
+    {
+        "instruction": "How are mutations distributed across Domains I, II, and III?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Domain-level mapping indicates: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane, highlighting non-uniform mutation clustering."
+    },
+    {
+        "instruction": "Describe the clustering pattern of substitutions within structural domains.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation analysis shows the following domain distribution: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. Domain I contains the highest concentration of substitutions."
+    },
+    {
+        "instruction": "Describe the clustering pattern of substitutions within structural domains.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Substitutions are distributed as follows: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. This suggests localized variation within specific structural regions."
+    },
+    {
+        "instruction": "Describe the clustering pattern of substitutions within structural domains.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Domain-level mapping indicates: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane, highlighting non-uniform mutation clustering."
+    },
+    {
+        "instruction": "Which structural domains contain the highest mutation density?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation analysis shows the following domain distribution: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. Domain I contains the highest concentration of substitutions."
+    },
+    {
+        "instruction": "Which structural domains contain the highest mutation density?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Substitutions are distributed as follows: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. This suggests localized variation within specific structural regions."
+    },
+    {
+        "instruction": "Which structural domains contain the highest mutation density?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Domain-level mapping indicates: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane, highlighting non-uniform mutation clustering."
+    },
+    {
+        "instruction": "Analyze the domain-wise mutation frequency.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation analysis shows the following domain distribution: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. Domain I contains the highest concentration of substitutions."
+    },
+    {
+        "instruction": "Analyze the domain-wise mutation frequency.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Substitutions are distributed as follows: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane. This suggests localized variation within specific structural regions."
+    },
+    {
+        "instruction": "Analyze the domain-wise mutation frequency.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Domain-level mapping indicates: 5 in Domain I, 1 in Domain II, 1 in Domain III, 3 in Stem / Transmembrane, highlighting non-uniform mutation clustering."
+    },
+    {
+        "instruction": "Why cannot mutation V462I be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why cannot mutation V462I be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why cannot mutation V462I be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Why is V462I not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why is V462I not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why is V462I not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing V462I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation V462I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation V462I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation V462I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Discuss why V462I lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V462I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Discuss why V462I lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V462I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Discuss why V462I lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V462I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Why cannot mutation S478T be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why cannot mutation S478T be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why cannot mutation S478T be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Why is S478T not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why is S478T not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why is S478T not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing S478T.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation S478T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation S478T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation S478T?",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Discuss why S478T lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The S478T substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Discuss why S478T lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation S478T lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Discuss why S478T lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "S478T is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Why cannot mutation V484I be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why cannot mutation V484I be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why cannot mutation V484I be structurally analyzed using 8FE3?",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Why is V484I not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why is V484I not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why is V484I not visible in the 8FE3 structure?",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Explain the structural limitation for analyzing V484I.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation V484I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation V484I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Why does the 8FE3 model not resolve mutation V484I?",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "Discuss why V484I lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The V484I substitution occurs within the Stem / Transmembrane region, which corresponds to the stem or transmembrane segment not included in the 8FE3 ectodomain structure."
+    },
+    {
+        "instruction": "Discuss why V484I lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Mutation V484I lies in the Stem / Transmembrane region, absent from the resolved cryo-EM model, preventing direct structural interpretation."
+    },
+    {
+        "instruction": "Discuss why V484I lacks structural representation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "V484I is located outside the resolved portion of the 8FE3 structure, limiting residue-level analysis."
+    },
+    {
+        "instruction": "What does preservation of the Envelope fold imply despite substitutions?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Despite multiple amino-acid substitutions, the Envelope protein maintains its canonical three-domain architecture, indicating structural constraints essential for viral function."
+    },
+    {
+        "instruction": "What does preservation of the Envelope fold imply despite substitutions?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The persistence of the canonical fold suggests that mutations occur without disrupting global structural integrity."
+    },
+    {
+        "instruction": "What does preservation of the Envelope fold imply despite substitutions?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Structural conservation implies evolutionary pressure to preserve receptor-binding and membrane-fusion functionality."
+    },
+    {
+        "instruction": "How can the E protein maintain structural stability despite mutations?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Despite multiple amino-acid substitutions, the Envelope protein maintains its canonical three-domain architecture, indicating structural constraints essential for viral function."
+    },
+    {
+        "instruction": "How can the E protein maintain structural stability despite mutations?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The persistence of the canonical fold suggests that mutations occur without disrupting global structural integrity."
+    },
+    {
+        "instruction": "How can the E protein maintain structural stability despite mutations?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Structural conservation implies evolutionary pressure to preserve receptor-binding and membrane-fusion functionality."
+    },
+    {
+        "instruction": "Why does the Envelope protein retain its canonical fold?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Despite multiple amino-acid substitutions, the Envelope protein maintains its canonical three-domain architecture, indicating structural constraints essential for viral function."
+    },
+    {
+        "instruction": "Why does the Envelope protein retain its canonical fold?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The persistence of the canonical fold suggests that mutations occur without disrupting global structural integrity."
+    },
+    {
+        "instruction": "Why does the Envelope protein retain its canonical fold?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Structural conservation implies evolutionary pressure to preserve receptor-binding and membrane-fusion functionality."
+    },
+    {
+        "instruction": "What structural constraints preserve the E protein architecture?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Despite multiple amino-acid substitutions, the Envelope protein maintains its canonical three-domain architecture, indicating structural constraints essential for viral function."
+    },
+    {
+        "instruction": "What structural constraints preserve the E protein architecture?",
+        "input": "PDB Structure: 8FE3",
+        "output": "The persistence of the canonical fold suggests that mutations occur without disrupting global structural integrity."
+    },
+    {
+        "instruction": "What structural constraints preserve the E protein architecture?",
+        "input": "PDB Structure: 8FE3",
+        "output": "Structural conservation implies evolutionary pressure to preserve receptor-binding and membrane-fusion functionality."
+    },
+    {
+        "instruction": "Discuss structural conservation despite sequence variation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Despite multiple amino-acid substitutions, the Envelope protein maintains its canonical three-domain architecture, indicating structural constraints essential for viral function."
+    },
+    {
+        "instruction": "Discuss structural conservation despite sequence variation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "The persistence of the canonical fold suggests that mutations occur without disrupting global structural integrity."
+    },
+    {
+        "instruction": "Discuss structural conservation despite sequence variation.",
+        "input": "PDB Structure: 8FE3",
+        "output": "Structural conservation implies evolutionary pressure to preserve receptor-binding and membrane-fusion functionality."
+    }
+]
