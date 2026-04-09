@@ -60,7 +60,7 @@ This project introduces a **multimodal Protein-LLM framework** that bridges stru
 
 ##  Status
 
-🚧 Ongoing — actively expanding dataset and improving multimodal alignment
+ Ongoing — actively expanding dataset and improving multimodal alignment
 
 ---
 
@@ -70,7 +70,6 @@ This project introduces a **multimodal Protein-LLM framework** that bridges stru
 * Improve 3D structure–text alignment
 * Deploy as an interactive research assistant
 
----
 
 ##  Contributions
 
